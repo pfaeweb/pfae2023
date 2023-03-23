@@ -1,2 +1,18 @@
 Profes: pfaeweb
+<<<<<<< HEAD
  fatou:fapfae
+=======
+
+Marco: marcobonati87
+María: MariaTrapote
+<<<<<<< HEAD
+Elisabet: EElisabet94
+=======
+Roberto: robertolawebdetias
+>>>>>>> 583f1b07f83d3801b85ed62c313f2ef142dae726
+Matías : MatiasPfae
+Acorán: AcoranRamon
+Amaya:AmayaPFAE
+susi: susipfae
+Nauzet: NauzetFC
+>>>>>>> 52e0b96439c536e96284489c23e8b821b650a6e3
